@@ -1,0 +1,16 @@
+blockquote { 
+    color: blue ;
+}
+h1 { color: rgba(0,0,255,.5); }
+strong { color: #00f; color: #f00;}
+/*p { color: gold} */
+/*
+body{
+    color:rgb(115, 92, 159);
+}*/
+
+div {
+    text-align: center;
+    letter-spacing: 1em;
+    line-height: 3em;
+}
